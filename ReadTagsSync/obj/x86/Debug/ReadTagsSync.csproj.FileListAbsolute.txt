@@ -1,0 +1,22 @@
+C:\Users\Renata\Documents\RF Consulting _ 26_02_2013\Treinamento Impinj\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\obj\x86\Debug\ReadTagsSync.csprojResolveAssemblyReference.cache
+C:\Users\Renata\Documents\RF Consulting _ 26_02_2013\Treinamento Impinj\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\bin\Debug\ReadTagsSync.exe
+C:\Users\Renata\Documents\RF Consulting _ 26_02_2013\Treinamento Impinj\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\bin\Debug\ReadTagsSync.pdb
+C:\Users\Renata\Documents\RF Consulting _ 26_02_2013\Treinamento Impinj\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\Renata\Documents\RF Consulting _ 26_02_2013\Treinamento Impinj\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\bin\Debug\LLRP.dll
+C:\Users\Renata\Documents\RF Consulting _ 26_02_2013\Treinamento Impinj\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\bin\Debug\LLRP.Impinj.dll
+C:\Users\Renata\Documents\RF Consulting _ 26_02_2013\Treinamento Impinj\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\obj\x86\Debug\ReadTagsSync.exe
+C:\Users\Renata\Documents\RF Consulting _ 26_02_2013\Treinamento Impinj\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\obj\x86\Debug\ReadTagsSync.pdb
+D:\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\obj\x86\Debug\ReadTagsSync.exe
+D:\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\obj\x86\Debug\ReadTagsSync.pdb
+C:\Users\Luiz\Documents\Visual Studio 2010\Projects\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\obj\x86\Debug\ReadTagsSync.exe
+C:\Users\Luiz\Documents\Visual Studio 2010\Projects\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\obj\x86\Debug\ReadTagsSync.pdb
+C:\Users\Luiz\Documents\Visual Studio 2010\Projects\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\bin\Debug\ReadTagsSync.exe
+C:\Users\Luiz\Documents\Visual Studio 2010\Projects\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\bin\Debug\ReadTagsSync.pdb
+C:\Users\Luiz\Documents\Visual Studio 2010\Projects\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\Luiz\Documents\Visual Studio 2010\Projects\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\bin\Debug\LLRP.dll
+C:\Users\Luiz\Documents\Visual Studio 2010\Projects\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\bin\Debug\LLRP.Impinj.dll
+C:\Users\Luiz\Documents\Visual Studio 2010\Projects\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\obj\x86\Debug\ReadTagsSync.csprojResolveAssemblyReference.cache
+C:\Users\Luiz\Documents\Visual Studio 2010\Projects\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\obj\x86\Debug\ReadTagsSync.csproj.GenerateResource.Cache
+C:\Users\Luiz\Documents\Visual Studio 2010\Projects\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\obj\x86\Debug\RenataRampim1._1.Form1.resources
+C:\Users\Luiz\Documents\Visual Studio 2010\Projects\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\obj\x86\Debug\ReadTagsSync.FormLeitura.resources
+C:\Users\Luiz\Documents\Visual Studio 2010\Projects\Octane SDK Labs\2_ReadTagsSync\ReadTagsSync\obj\x86\Debug\ReadTagsSync.Properties.Resources.resources

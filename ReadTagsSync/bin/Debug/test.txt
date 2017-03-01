@@ -1,0 +1,31 @@
+
+EPC : 00000020 Antenna : 1 Numero de vezes da tag lida : 56
+EPC : 0123456789ABCDEF01234567 Antenna : 1 Numero de vezes da tag lida : 60
+EPC : 00000020 Antenna : 1 Numero de vezes da tag lida : 1129
+EPC : 0123456789ABCDEF01234567 Antenna : 1 Numero de vezes da tag lida : 1197
+EPC : 00000020 Antenna : 1 Numero de vezes da tag lida : 6534
+EPC : 0123456789ABCDEF01234567 Antenna : 1 Numero de vezes da tag lida : 6941
+EPC : 0123456789ABCDEF01234567 Antenna : 1 Numero de vezes da tag lida : 260
+EPC : 00000020 Antenna : 1 Numero de vezes da tag lida : 245
+EPC : 00000020 Antenna : 1 Numero de vezes da tag lida : 402
+EPC : 0123456789ABCDEF01234567 Antenna : 1 Numero de vezes da tag lida : 428
+EPC : 00000020 Antenna : 1 Numero de vezes da tag lida : 27
+EPC : 0123456789ABCDEF01234567 Antenna : 1 Numero de vezes da tag lida : 29
+EPC : 0123456789ABCDEF01234567 Antenna : 1 Numero de vezes da tag lida : 174
+EPC : 00000020 Antenna : 1 Numero de vezes da tag lida : 163
+EPC : 00000020 Antenna : 1 Numero de vezes da tag lida : 102
+EPC : 0123456789ABCDEF01234567 Antenna : 1 Numero de vezes da tag lida : 109
+EPC : 00000020 Antenna : 1 Numero de vezes da tag lida : 58
+EPC : 0123456789ABCDEF01234567 Antenna : 1 Numero de vezes da tag lida : 62
+
+CDEF
+CDEF
+
+
+CDEF
+
+CDEF
+CDEF
+
+
+CDEF
