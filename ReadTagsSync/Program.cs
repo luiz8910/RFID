@@ -24,21 +24,14 @@ namespace ReadTagsSync
         static String id_leitura = random.RandomString();
         static FormLeitura form = new FormLeitura();
 
-        public void inicio() 
-        {
-            MessageBox.Show("Aqui");
-        }
-        
-
         public static void Main(string[] args)
         {
-            try
-            {
-                Application.Run(new FormLeitura());
+            Application.Run(new FormLeitura());
+
                 // Connect to the reader.
                 // Replace "SpeedwayR-10-25-32" with your 
                 // reader's host name or IP address.
-                Reader.Connect("SpeedwayR-11-d4-d2.local");
+                /*Reader.Connect("SpeedwayR-11-d4-d2.local");
 
                 // Remove all settings from the reader.
                 Reader.ClearSettings();
@@ -65,7 +58,7 @@ namespace ReadTagsSync
 
                 /*settings.Report.IncludeAntennaPortNumber = true;
                 settings.Report.IncludeFirstSeenTime = true;  
-                settings.Report.IncludeSeenCount = true; */
+                settings.Report.IncludeSeenCount = true; 
 
 
 
@@ -75,8 +68,6 @@ namespace ReadTagsSync
 
                 // Apply the newly modified settings.
                 Reader.ApplySettings(settings);
-
-                
 
                 // Assign the TagsReported handler.
                 // This specifies which function to call
@@ -97,19 +88,12 @@ namespace ReadTagsSync
 
                 // Disconnect from the reader.
                 Reader.Disconnect();
-            }
-            catch (OctaneSdkException e)
-            {
-                Console.WriteLine("Octane SDK exception: {0}", e.Message);
-                Console.Read();
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine("Exception : {0}", e.Message);
-            }
+
+                Application.Run(new FormLeitura());*/
+            
         }
 
-        static void OnTagsReported(object sender, TagsReportedEventArgs args)
+        /*static void OnTagsReported(object sender, TagsReportedEventArgs args)
         {
             var con = new dbConnection();
 
@@ -162,11 +146,11 @@ namespace ReadTagsSync
                             
                     }
 
-                    Console.WriteLine("EPC :{0}", tag.Epc);
+                    //Console.WriteLine("EPC :{0}", tag.Epc);
                 }
                
             }
 
-        }
+        }*/
     }
 }

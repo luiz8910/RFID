@@ -67,11 +67,15 @@ namespace ReadTagsSync
 
         public void Insert(String nome, String id_leitura)
         {
-            string query = "Insert into leitura (id_nome, qtde, id_leitura) values('" + nome + "','1', '"+ id_leitura + "')";
+            if (this.openConnection())
+            {
+                string query = "Insert into leitura (id_nome, qtde, id_leitura) values('" + nome + "','1', '" + id_leitura + "')";
 
-            MySqlCommand cmd = new MySqlCommand(query, connection);
+                MySqlCommand cmd = new MySqlCommand(query, connection);
 
-            cmd.ExecuteNonQuery();
+                cmd.ExecuteNonQuery();
+            }
+            
         }
 
         public void Update(String nome, String id_leitura)
