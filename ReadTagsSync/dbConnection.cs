@@ -78,7 +78,7 @@ namespace ReadTagsSync
             
         }
 
-        public void Update(String nome, String id_leitura)
+        public int Update(String nome, String id_leitura)
         {
             string select = "Select qtde from leitura where id_nome = '" + nome + "' and id_leitura = '" + id_leitura + "'";
 
@@ -102,6 +102,8 @@ namespace ReadTagsSync
             cmd = new MySqlCommand(query, connection);
 
             cmd.ExecuteNonQuery();
+
+            return qtde;
         }
 
         public string exibirNomeProduto(String palavra)
